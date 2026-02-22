@@ -16,3 +16,5 @@ student trustee photo: https://static.wixstatic.com/media/04c37a_05713d3b1dd6466
 
 
 keele hall photo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Keele_Hall_0791.jpg/500px-Keele_Hall_0791.jpg
+
+link to ogm poster: https://static.wixstatic.com/media/04c37a_34e68e2773ab4780af4ef299f095403b~mv2.jpeg
